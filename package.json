@@ -1,0 +1,22 @@
+{
+  "name": "a01-simmiagarwal",
+  "version": "1.0.0",
+  "description": "HTML and CSS assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://simmiagarwal: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@github.com/jdmar3-comp426/a01-simmiagarwal.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jdmar3-comp426/a01-simmiagarwal/issues"
+  },
+  "homepage": "https://github.com/jdmar3-comp426/a01-simmiagarwal#readme",
+  "dependencies": {
+    "browser-sync": "^2.27.5"
+  }
+}
